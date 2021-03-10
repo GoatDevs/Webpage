@@ -7,4 +7,4 @@
 - Coming soon...
 
 # Credits : 
-** © [GoatDevs](https://github.com/GoatDevs)**
+*©[GoatDevs](https://github.com/GoatDevs)*
